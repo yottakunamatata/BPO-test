@@ -1,0 +1,40 @@
+h1 {
+    color: blue
+}
+
+.aaa {
+    background-color: gray;
+    height: 200px;
+    width: 600px;
+}
+
+.queue {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.making {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.finish {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+
+}
